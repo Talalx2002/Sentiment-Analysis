@@ -15,7 +15,7 @@ The code consists of two main parts:
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/your_username/imdb-sentiment-analysis.git
+git clone https://github.com/Talalx2002/Sentiment-Analysis.git
 cd imdb-sentiment-analysis
 
 3. Train the model:
